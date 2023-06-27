@@ -69,7 +69,7 @@ else
 fi
 ```
 
-- Установим планировщик, зайдем в crontab -e и пропишем:
+- Установим планировщик, зайдем в **crontab -e** и пропишем:
 
 ```
 # Edit this file to introduce tasks to be run by cron.
