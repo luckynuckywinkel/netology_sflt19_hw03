@@ -97,8 +97,10 @@ fi
 # m h  dom mon dow   command
 
 
-15 17 * * * /home/vagrant/backup.sh
+58 13 * * * /home/vagrant/backup.sh
 ```
 
-Что ж. Ждем 17.15 и смотрим логи.
+Что ж. Ждем 13.58 и смотрим логи:  
+
+
   
