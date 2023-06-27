@@ -16,7 +16,7 @@
 - Напишем команду rsync, удовлетворяющую условиям нашей задачи:
 
 ```
-rsync -avPh --checksum --exclude=".*" ~ /tmp/backup
+rsync -avPh --checksum --exclude=".*" . /tmp/backup
 ```
   
   
